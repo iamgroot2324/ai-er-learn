@@ -1,0 +1,27 @@
+# MACHINE LEARNING
+-> Method of teaching computers to learn from data, without being explicitly programmed>
+   1. Learning from data
+   2. Choosing a Mode(model is a mathematical structure or function that makes predictions or decisions.)
+      a. linear Regression(for predicting numbers)
+      b. Decision Trees(for yes/no decisions)
+      c. Neural Networks(for complex tasks like image recognition)
+    3. Training the Model - During training, the model learns by adjusting itself to reduce mistakes.
+       -use algorithms, minimize error
+    4. Testing and Evaluation - After training, the model is tested on new, unseen data to check if it has generalized well
+        i.e learned the actual pattern, not just memorized the training data.
+    5. Improving the Model
+       -Includes:
+       Feeding it more data.
+       Tuning the model's parameters.
+       Using more advanced algorithms or techniques
+
+# TYPES OF MACHINE LEARNING
+    1. Supervised Learning(Labeled Data)
+       a. Classification
+       b. Predicting Outcome(Regression Problem)
+    2. Unsupervised learning(process data without labeling or indications. It has to scan through all pictures)
+       Labeling data is costly.(finds patterns in unlabeled data)
+    3. Reinforcement Learning( operates without labelled data where a machine figures out how to reach the goal.)
+       Learns by trial and error, getting rewards/penalties 
+# DEEP LEARNING (INSPIRED BY HUMAN BRAIN)
+ 
